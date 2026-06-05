@@ -1,0 +1,51 @@
+# Geotecnia1 — Arica
+
+> Geotechnical engineering services in Arica, Chile.
+
+## Services
+- [Aislacion Sismica](https://arica.geotecnia1.vip/aislacion-sismica/)
+- [Anclajes](https://arica.geotecnia1.vip/anclajes/)
+- [Calicatas Exploratorias](https://arica.geotecnia1.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://arica.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://arica.geotecnia1.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://arica.geotecnia1.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://arica.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://arica.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://arica.geotecnia1.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://arica.geotecnia1.vip/ensayo-triaxial/)
+- [Estabilidad Taludes](https://arica.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://arica.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://arica.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://arica.geotecnia1.vip/exploracion/)
+- [Geofisica](https://arica.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://arica.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://arica.geotecnia1.vip/granulometria/)
+- [Grouting](https://arica.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://arica.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://arica.geotecnia1.vip/laboratorio-lab/)
+- [Licuefaccion](https://arica.geotecnia1.vip/licuefaccion/)
+- [Limites Atterberg](https://arica.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://arica.geotecnia1.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://arica.geotecnia1.vip/masw-vs30/)
+- [Mejoramiento](https://arica.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://arica.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://arica.geotecnia1.vip/monitoreo-excavaciones/)
+- [Pavimento Flexible](https://arica.geotecnia1.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://arica.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://arica.geotecnia1.vip/permeabilidad-campo/)
+- [Pilotes](https://arica.geotecnia1.vip/pilotes/)
+- [Placa De Carga](https://arica.geotecnia1.vip/placa-de-carga/)
+- [Resistividad Electrica Sev](https://arica.geotecnia1.vip/resistividad-electrica-sev/)
+- [Sismica](https://arica.geotecnia1.vip/sismica/)
+- [Sondaje Spt](https://arica.geotecnia1.vip/sondaje-spt/)
+- [Taludes](https://arica.geotecnia1.vip/taludes/)
+- [Tomografia Sismica](https://arica.geotecnia1.vip/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://arica.geotecnia1.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://arica.geotecnia1.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://arica.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Arica, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
